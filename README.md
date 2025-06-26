@@ -4,11 +4,7 @@
 
 📫 How to reach me **sennadevinicius@gmail.com**
 
-<div align="center">
-  <a href="https://github.com/ViniciusDeSenna">
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusDeSenna&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+![ViniciusDeSenna's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ViniciusDeSenna&theme=tokyonight&hide_border=true)
 
 ## Main Open Source projects
 <a href="https://github.com/ViniciusDeSenna/asaas-sdk-java">
