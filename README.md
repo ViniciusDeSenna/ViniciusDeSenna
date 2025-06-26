@@ -4,9 +4,20 @@
 
 📫 How to reach me **sennadevinicius@gmail.com**
 
+<a href="https://github.com/ViniciusDeSenna">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusDeSenna&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/ViniciusDeSenna">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusDeSenna&theme=tokyonight&hide_border=true" />
+</a>
+
 ## Main Open Source projects
-[![Asaas SDK Java](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusDeSenna&repo=asaas-sdk-java&theme=tokyonight&hide_border=true)](https://github.com/ViniciusDeSenna/asaas-sdk-java)
-[![Ailos SDK PHP](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusDeSenna&repo=ailos-sdk-php&theme=tokyonight&hide_border=true)](https://github.com/ViniciusDeSenna/ailos-sdk-php)
+<a href="https://github.com/ViniciusDeSenna/asaas-sdk-java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusDeSenna&repo=asaas-sdk-java&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/ViniciusDeSenna/ailos-sdk-php">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusDeSenna&repo=ailos-sdk-php&theme=tokyonight&hide_border=true" />
+</a>
 
 ## Languages
 <div>
@@ -51,9 +62,3 @@
 <a href="https://linkedin.com/in/vinicius-de-senna" target="blank">
    <img height="50" alt="LinkedIn Vinícius de Senna" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
 </a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
-</picture>
