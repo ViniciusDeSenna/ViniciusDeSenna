@@ -4,12 +4,15 @@
 
 📫 How to reach me **sennadevinicius@gmail.com**
 
-<a href="https://github.com/ViniciusDeSenna">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusDeSenna&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-</a>
-<a href="https://github.com/ViniciusDeSenna">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDeSenna&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
-</a>
+<div align="center">
+  <a href="https://github.com/ViniciusDeSenna">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=ViniciusDeSenna&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  </a>
+  <br />
+  <a href="https://github.com/ViniciusDeSenna">
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusDeSenna&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
 ## Main Open Source projects
 <a href="https://github.com/ViniciusDeSenna/asaas-sdk-java">
