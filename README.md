@@ -4,12 +4,6 @@
 
 📫 How to reach me **sennadevinicius@gmail.com**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
-</picture>
-
 ## Main Open Source projects
 [![Asaas SDK Java](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusDeSenna&repo=asaas-sdk-java&theme=tokyonight&hide_border=true)](https://github.com/ViniciusDeSenna/asaas-sdk-java)
 [![Ailos SDK PHP](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusDeSenna&repo=ailos-sdk-php&theme=tokyonight&hide_border=true)](https://github.com/ViniciusDeSenna/ailos-sdk-php)
@@ -57,3 +51,9 @@
 <a href="https://linkedin.com/in/vinicius-de-senna" target="blank">
    <img height="50" alt="LinkedIn Vinícius de Senna" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
 </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+</picture>
