@@ -1,39 +1,56 @@
-### Hello, I am Vinícius De Senna. ☄️
-I love coming up with new ideas, getting hands-on, and seeing my creations come to life! — like a true Frankenstein (in a good way, haha) 💙
+# ☄️ Hello, I am Vinícius De Senna.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusDeSenna&show_icons=true&theme=tokyonight)
+💙 I love coming up with new ideas, getting hands-on, and seeing my creations come to life! — like a true Frankenstein (in a good way, haha).
 
----
+📫 How to reach me **sennadevinicius@gmail.com**
 
-<h3>Programming Languages</h3>
-<div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" title="Java" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" title="PHP" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" />
+![ViniciusDeSenna's Stats](https://github-readme-stats.vercel.app/api?username=ViniciusDeSenna&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![ViniciusDeSenna's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ViniciusDeSenna&theme=tokyonight&hide_border=true)
+
+## Main Open Source projects
+[![Asaas SDK Java](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusDeSenna&repo=asaas-sdk-java&theme=tokyonight&hide_border=true)](https://github.com/ViniciusDeSenna/asaas-sdk-java)
+[![Ailos SDK PHP](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusDeSenna&repo=ailos-sdk-php&theme=tokyonight&hide_border=true)](https://github.com/ViniciusDeSenna/ailos-sdk-php)
+
+## Languages
+<div>
+  <img height="50" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img height="50" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img height="50" alt="dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+  <img height="50" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 
-<h3>Frameworks & Libraries</h3>
-<div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" title="Spring" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40" title="Laravel" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" title="Angular" />
+## Frameworks
+<div>
+  <img height="50" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img height="50" alt="laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img height="50" alt="flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  <img height="50" alt="angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  <img height="50" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img height="50" alt="tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
 
-<h3>Tools & Technologies</h3>
-<div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="40" height="40" title="jQuery" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" width="40" height="40" title="Livewire" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="40" height="40" title="Maven" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB" />    
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" title="Bootstrap" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="40" height="40" title="Cloudflare" />  
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" title="Postman" />
+## Libraries
+<div>
+  <img height="50" alt="hibernate" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" />
+  <img height="50" alt="composer" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" />
+  <img height="50" alt="livewire" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" />
+  <img height="50" alt="angularmaterial" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" />
+  <img height="50" alt="jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+  <img height="50" alt="alpinejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" />
+  <img height="50" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
 
-### Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/senna.tt?igsh=MTZwdXp1bXhxMHBwbg==)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-de-senna/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
+## Technologies
+<div>
+  <img height="50" alt="amazonwebservices" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img height="50" alt="cloudflare" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />
+  <img height="50" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img height="50" alt="postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+</div>
+
+
+## Connect with me
+<a href="https://linkedin.com/in/vinicius-de-senna" target="blank">
+   <img height="50" alt="LinkedIn Vinícius de Senna" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+</a>
