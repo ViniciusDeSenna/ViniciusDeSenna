@@ -5,7 +5,6 @@
 📫 How to reach me **sennadevinicius@gmail.com**
 
 ![ViniciusDeSenna's Stats](https://github-readme-stats.vercel.app/api?username=ViniciusDeSenna&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![ViniciusDeSenna's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ViniciusDeSenna&theme=tokyonight&hide_border=true)
 
 ## Main Open Source projects
 [![Asaas SDK Java](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusDeSenna&repo=asaas-sdk-java&theme=tokyonight&hide_border=true)](https://github.com/ViniciusDeSenna/asaas-sdk-java)
