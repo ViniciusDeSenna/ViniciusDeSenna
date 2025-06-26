@@ -4,7 +4,11 @@
 
 📫 How to reach me **sennadevinicius@gmail.com**
 
-![Animação da Cobrinha](https://raw.githubusercontent.com/ViniciusDeSenna/ViniciusDeSenna/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## Main Open Source projects
 [![Asaas SDK Java](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusDeSenna&repo=asaas-sdk-java&theme=tokyonight&hide_border=true)](https://github.com/ViniciusDeSenna/asaas-sdk-java)
