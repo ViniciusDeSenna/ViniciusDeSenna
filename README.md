@@ -8,7 +8,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusDeSenna&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 </a>
 <a href="https://github.com/ViniciusDeSenna">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusDeSenna&theme=tokyonight&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDeSenna&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </a>
 
 ## Main Open Source projects
