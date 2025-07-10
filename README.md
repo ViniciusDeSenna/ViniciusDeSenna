@@ -8,6 +8,9 @@
 <a href="https://github.com/ViniciusDeSenna/asaas-sdk-java">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusDeSenna&repo=asaas-sdk-java&theme=tokyonight&hide_border=true" />
 </a>
+<a href="https://github.com/ViniciusDeSenna/ailos-sdk-php">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusDeSenna&repo=ailos-sdk-php&theme=tokyonight&hide_border=true" />
+</a>
 
 ## Languages
 <div>
