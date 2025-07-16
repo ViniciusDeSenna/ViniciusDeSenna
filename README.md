@@ -16,10 +16,10 @@
 [![My Languages](https://skillicons.dev/icons?i=java,php,dart,js)](https://skillicons.dev)
 
 ## Frameworks
-[![My Frameworks](https://skillicons.dev/icons?i=spring,laravel,dart,flutter,angular,typescript,tailwind)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=spring,laravel,flutter,angular,typescript,tailwind)](https://skillicons.dev)
 
 ## Technologies
-[![My Technologies](https://skillicons.dev/icons?i=aws,cloudflare,git,postman)](https://skillicons.dev)
+[![My Technologies](https://skillicons.dev/icons?i=aws,cloudflare,git,postman,mongodb,mysql)](https://skillicons.dev)
 
 ## Connect with me
 <a href="https://linkedin.com/in/vinicius-de-senna" target="blank">
