@@ -16,7 +16,7 @@
 [![My Languages](https://skillicons.dev/icons?i=java,php,js)](https://skillicons.dev)
 
 ## Frameworks
-[![My Frameworks](https://skillicons.dev/icons?i=spring,laravel,angular,typescript,tailwind)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=spring,laravel,angular,vue,typescript,tailwind)](https://skillicons.dev)
 
 ## Technologies
 [![My Technologies](https://skillicons.dev/icons?i=aws,cloudflare,git,postman,mongodb,mysql,linux,mint)](https://skillicons.dev)
