@@ -4,7 +4,7 @@
 
 📫 How to reach me **sennadevinicius@gmail.com**
 
-## Main Open Source projects
+## Main Open Source Projects
 <a href="https://github.com/ViniciusDeSenna/asaas-sdk-java">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusDeSenna&repo=asaas-sdk-java&theme=tokyonight&hide_border=true" />
 </a>
